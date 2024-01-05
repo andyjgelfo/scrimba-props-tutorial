@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#setup {
+  color: rgb(7, 7, 122);
+}
+
+#punchline {
+  color: rgb(2, 2, 56);
+  font-weight: 500;
+}
+
+.jokeInstance {
+  margin: 2em;
+}
